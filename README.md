@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Unal Yigit Ozulku! :wave:
 
-<!--
-**uyozulku/uyozulku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyozulku/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://uyozulku.github.io/)
 
-Here are some ideas to get you started:
+I am a senior at Columbia University (graduating in May 2023) studying computer science :computer:. My current interests are software systems, machine learning, and fintech. You can find my resume [here](https://drive.google.com/file/d/1bmDa87qOAD7nRzqiSUMINREb_yJ8CkfE/view?usp=sharing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Github Stats
+![Unal's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyozulku&count_private=true&show_icons=true)
+
+
+#### Programming Languages and Skills
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
