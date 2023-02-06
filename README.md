@@ -1,4 +1,4 @@
-# Hi, I'm Unal Yigit Ozulku! 👋
+# Hello, I'm Unal Yigit Ozulku! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyozulku/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://uyozulku.github.io/)
